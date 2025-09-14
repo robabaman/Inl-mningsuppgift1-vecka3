@@ -9,7 +9,7 @@
 
         public void Slow()
         {
-            Console.WriteLine("Fordonet kör långsamt");
+            Console.WriteLine("Fordonet har inte många hästar");
         }
     }
 
